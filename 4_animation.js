@@ -1,6 +1,6 @@
 
 // hide element 
-$("button").click( function(){ $("h1").hide()})
+// $("button").click( function(){ $("h1").hide()})
 
 
 // // show element 

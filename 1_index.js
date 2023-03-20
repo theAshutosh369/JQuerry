@@ -5,11 +5,11 @@
 
 
 // selecting all the buttons from the document 
-$("button")
+// $("button")
 
 
-// // changing the color using jquery 
-// // .css("property", "value")
+// changing the color using jquery 
+// .css("property", "value")
 // $("h1").css("color","red");
 
 

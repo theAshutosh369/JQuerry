@@ -7,7 +7,7 @@ $("h1").append("<button>new</button>")
 
 
 // removes the elements
-$("button").remove()
+// $("button").remove()
 // sabhi jo buttons the wo sb delete hojayenge 
 
 
